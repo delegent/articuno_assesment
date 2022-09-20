@@ -1,0 +1,52 @@
+.form_container {
+  margin-top: 3rem;
+  margin-left: 2rem;
+  margin-right: 0;
+}
+
+.form_heading {
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+.form_btn_container {
+  margin-bottom: 30px;
+}
+.form_btn {
+  padding: 13px 35px;
+  border-radius: 30px;
+  margin-right: 20px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.7rem;
+  border: solid 1px #ccc;
+  text-transform: uppercase;
+}
+
+.form_text {
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+.form_input_group {
+}
+.form_input_group .input {
+  margin: 10px 10px 10px 0;
+  padding: 10px 15px;
+  border-radius: 30px;
+  border: solid 1px #ccc;
+}
+.form_login_btn {
+  background: #27d18d;
+  border: solid 1px #27d18d;
+  color: #fff;
+}
+.input:focus {
+  border: solid 1px #ccc;
+}
+
+.form_input_group .input:hover {
+  border: solid 1px #ccc;
+}
+::placeholder {
+  font-size: 0.75rem;
+  padding-left: 10px;
+}

@@ -1,0 +1,24 @@
+.payment_container {
+  min-width: 300px;
+}
+
+.methods_container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.methods_container .items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.items img {
+  width: 60px;
+  height: 20px;
+  padding: 10px 20px;
+  border: solid 1px #ccc;
+  border-radius: 30px;
+  margin: 10px;
+}

@@ -1,0 +1,23 @@
+.ditems {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ditems img {
+  width: 70px;
+  height: 20px;
+}
+.ditems div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: solid 1px #ccc;
+  border-radius: 30px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.ditems p {
+  font-size: 0.8rem;
+  margin-left: 4px;
+}

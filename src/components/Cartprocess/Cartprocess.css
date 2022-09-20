@@ -1,0 +1,31 @@
+.cart_container {
+  position: absolute;
+  right: 10px;
+  top: 105px;
+}
+.cart_icon {
+  color: #3f3e3e;
+  border: solid 1px #27d18d;
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 50%;
+}
+span {
+  border-top: solid 1px #e8e8e8;
+  margin-left: 10px;
+  color: #fff;
+  content: none;
+  display: inline-block;
+  width: 80px;
+  position: relative;
+  bottom: 16.5px;
+}
+
+.truck_icon {
+  color: #fff;
+  background: #27d18d;
+  border: solid 1px #27d18d;
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 50%;
+}
